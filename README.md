@@ -10,7 +10,7 @@ and preserving accuracy in cell clustering compared to existing methods
 ## 2. Environment 
 R version 4.0 or greater is required 
 ### Required packages: 
-The detailed requirements can be found [here](https://github.com/JiazhangCai/WEST/blob/main/requirements.txt).
+The detailed requirements can be found [here]([https://github.com/JiazhangCai/WEST/blob/main/requirements.txt](https://github.com/lyfhei/OMIC/blob/main/requirements)).
 
 ## 3.Tutorial 
 The [tutorial](https://github.com/JiazhangCai/WEST/blob/main/tutorial.ipynb) provides a pipeline of how to implement
