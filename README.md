@@ -1,9 +1,11 @@
-# Weghted Ensemble method of Spatial Transcriptomics (WEST) 
+# Orthogonal Multimodality Integration and Clustering (OMIC)
 
 ## 1. Introduction 
-WEST is a method that utilizes ensemble techniques to improve the performance and stability of spatial transcriptomics data analysis. 
-It represents a significant advance in clustering spatial transcriptomics data, offering improved accuracy and flexibility compared to existing methods, 
-making it a valuable tool for spatial transcriptomics data analysis.
+OMIC is a method that apply projection method to integrate multiple sources of information while accounting for the dependence among them.
+It excels at modeling the relationships among multiple variables, facilitating scalable computation,
+and preserving accuracy in cell clustering compared to existing methods
+
+
 
 ## 2. Environment 
 Python=3.8 
