@@ -8,7 +8,7 @@ and preserving accuracy in cell clustering compared to existing methods
 
 
 ## 2. Environment 
-Python=3.8 
+R version 4.0 or greater is required 
 ### Required packages: 
 The detailed requirements can be found [here](https://github.com/JiazhangCai/WEST/blob/main/requirements.txt).
 
