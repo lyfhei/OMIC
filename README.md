@@ -13,13 +13,9 @@ R version 4.0 or greater is required
 The detailed requirements can be found [here](https://github.com/lyfhei/OMIC/blob/main/requirements).
 
 ## 3.Tutorial 
-The [tutorial](https://github.com/JiazhangCai/WEST/blob/main/tutorial.ipynb) provides a pipeline of how to implement
-WEST on an actual sample, including the description for every parameter. 
+The [tutorial](https://github.com/lyfhei/OMIC/blob/main/Tutorial) provides a instruction of how to implement
+OMIC on an actual dataset, including the description for every step. 
 
 ## 4. Data used in the paper 
-The DLPFC data used in the paper can be found [here](http://research.libd.org/spatialLIBD/).     
-The mouse embryo data used in the paper can be found [here](https://crukci.shinyapps.io/SpatialMouseAtlas/).      
-The simulated data used in the paper can be found in the folder [sim_data](https://github.com/JiazhangCai/WEST/tree/main/sim_data).       
-The reference-based synthetic data is already in the [folder](https://github.com/JiazhangCai/WEST/tree/main/sim_data/ref_based).        
-The reference-free synthetic data can be generated from [shiny.rdata](https://github.com/JiazhangCai/WEST/blob/main/sim_data/ref_free/shiny.rdata) using 
-the code [simulation_generate.R](https://github.com/JiazhangCai/WEST/blob/main/sim_data/ref_free/shiny.rdata).
+The CBMC data used in the paper can be found [here](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE100866).     
+The HBMC data used in the paper can be found [here](https://www.sciencedirect.com/science/article/pii/S0092867421005833?via%3Dihub).      
