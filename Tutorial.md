@@ -627,3 +627,5 @@ ggplot(coefficients, aes(x=Cluster,y=predictors, colour=sign, size=abs.value)) +
 ```
 
 ![](Untitled_files/figure-markdown_github/unnamed-chunk-6-1.png)
+
+![OMIC workflow](image/Coefficients.jpg)
