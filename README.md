@@ -13,7 +13,7 @@ R version 4.0 or greater is required
 The detailed requirements can be found [here](https://github.com/lyfhei/OMIC/blob/main/requirements).
 
 ## 3.Tutorial 
-The [tutorial](https://github.com/lyfhei/OMIC/blob/main/Tutorial) provides a instruction of how to implement
+The [tutorial](https://github.com/lyfhei/OMIC/blob/main/Tutorial.md) provides a instruction of how to implement
 OMIC on an actual dataset, including the description for every step. 
 
 ## 4. Data used in the paper 
