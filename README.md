@@ -3,7 +3,7 @@
 ## 1. Introduction 
 OMIC is a method that apply projection method to integrate multiple sources of information while accounting for the dependence among them.
 It excels at modeling the relationships among multiple variables, facilitating scalable computation,
-and preserving accuracy in cell clustering compared to existing methods
+and preserving accuracy in cell clustering compared to existing methods ![OMIC workflow](image/Overview.jpg)
 
 
 
