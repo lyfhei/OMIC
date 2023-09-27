@@ -268,6 +268,8 @@ adjustedRandIndex(bm.integrate$seurat_clusters, bm.integrate$celltype.l2)
 
     ## [1] 0.8790843
 
+![OMIC workflow](image/Overview.jpg)
+
 ## 5. Intepretability
 
 Now we come to see how our model could detect, which RNAs and ADTs are
