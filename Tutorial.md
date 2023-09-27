@@ -268,7 +268,7 @@ adjustedRandIndex(bm.integrate$seurat_clusters, bm.integrate$celltype.l2)
 
     ## [1] 0.8790843
 
-![OMIC workflow](image/Coefficients.jpg)
+![OMIC workflow](image/Overview.jpg)
 
 ## 5. Intepretability
 
