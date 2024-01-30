@@ -42,7 +42,8 @@ model=lm(adt.emb~rna.emb)
 adt.reduce=model$residuals
 rna.emb = cbmc@reductions$pca@cell.embeddings[,1:30]
 
-
+n.rna.pc = ncol(cbmc[['pca']])-20
+n.adt.pc = ncol(cbmc[['apca']])
 
 colnames(adt.reduce)=c(1:10)
 colnames=colnames(adt.reduce)
