@@ -18,4 +18,4 @@ OMIC on an actual dataset, including the description for every step.
 
 ## 4. Data used in the paper 
 The CBMC data used in the paper can be found [here](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE100866).     
-The HBMC data used in the paper can be found [here](https://www.sciencedirect.com/science/article/pii/S0092867421005833?via%3Dihub).      
+The HBMC data used in the paper can be found [here](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE128639).      
